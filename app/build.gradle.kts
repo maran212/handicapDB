@@ -9,9 +9,6 @@ plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     application
 
-    // Apply the Java plugin to add support for building Java applications.
-    java
-
     // Apply the JavaFX plugin to add support for building JavaFX applications.
     id("org.openjfx.javafxplugin") version "0.1.0"
 }
